@@ -33,7 +33,7 @@ It Loads raw data from dataset/raw_data , Cleans & saves to dataset/cleaned and 
 --cd streamlite_app
 then run --streamlit run dashboard.py
 
-![Dashboard Screenshot](./dashboard.png)
+![Dashboard Screenshot](./dashboard_ss.jpg)
 
 
 
